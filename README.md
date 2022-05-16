@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Florence Nanteza
 - 👀 I’m interested in low coding
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on low code using abstractions 
+- 💞️ I’m looking to collaborate on low codes using abstractions 
 - 📫 How to reach me by email florananteza@gmail.com
 
 <!---
